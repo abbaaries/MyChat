@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212635930286",
+    "firebase_url": "https://mychat-88ed6.firebaseio.com",
+    "project_id": "mychat-88ed6",
+    "storage_bucket": "mychat-88ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212635930286:android:0f882c0bd27bf32c",
+        "android_client_info": {
+          "package_name": "com.example.netmeeting.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212635930286-jfao319qptjt96cdf92ri1jnalqutm44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.netmeeting.mychat",
+            "certificate_hash": "2854165018c0cd6eff84dcc434f8a69612b8c87b"
+          }
+        },
+        {
+          "client_id": "212635930286-d5jsl6c0g7ah2gssi2mi5ddok7vn4oet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-JXiXndBchyrCGEdwS5UdgzdyTwQa6Oo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212635930286-d5jsl6c0g7ah2gssi2mi5ddok7vn4oet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
